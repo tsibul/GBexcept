@@ -6,7 +6,7 @@ public class hw1_3 {
         int len = Math.max(arr1.length, arr2.length);
         for(int i = 0; i < len; i++){
             try{
-                resArray[i] = arr1[i] / arr2 [i];
+                resArray[i] = (double) arr1[i] / arr2 [i];
             } catch (Exception e){
                 System.out.println("что-то поломалось");
             }
