@@ -19,6 +19,7 @@ public class Hw2_4 {
                 System.out.println("Not blank string, try again: ");
             }
         }
+        scanner.close();
 
     }
 }
