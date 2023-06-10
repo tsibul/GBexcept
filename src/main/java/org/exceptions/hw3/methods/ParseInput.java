@@ -49,7 +49,7 @@ public class ParseInput {
         if(!input.matches("^[А-ЯЁ][а-яё]*$")){
             System.out.println("Неправильно введено ФИО");
             return false;
-        };
+        }
         return true;
     }
 }

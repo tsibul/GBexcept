@@ -1,6 +1,5 @@
 package org.exceptions.hw2.methods;
 
-import java.io.FileNotFoundException;
 
 public class Hw2_3 {
     public static void Hw2_3 (){
